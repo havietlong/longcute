@@ -1,5 +1,5 @@
 Minh Anh thích Long Không
 A:Có
-B:Không
+B:A
 C:A
 Câu Trả Lời:C
