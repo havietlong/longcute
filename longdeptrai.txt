@@ -1,0 +1,5 @@
+Minh Anh thích Long Không
+A:Có
+B:Không
+C:A
+Câu Trả Lời:C
